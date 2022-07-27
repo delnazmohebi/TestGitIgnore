@@ -1,0 +1,14 @@
+C:\Users\delnaz.mohebi\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\delnaz.mohebi\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\delnaz.mohebi\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\delnaz.mohebi\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\delnaz.mohebi\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\delnaz.mohebi\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\delnaz.mohebi\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\TestGitIgnore\.github\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\TestGitIgnore\.github\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\TestGitIgnore\.github\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\TestGitIgnore\.github\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\TestGitIgnore\.github\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\TestGitIgnore\.github\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\TestGitIgnore\.github\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
